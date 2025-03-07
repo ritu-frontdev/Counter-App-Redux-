@@ -1,24 +1,12 @@
-import logo from './logo.svg';
-import React from 'react';
-import { BrowserRouter, Route, Routes } from "react-router-dom";
-import './App.css';
-import FirstPage from './Component/FirstPage';
-import NewsApp from './Component/NewsApp';
-import "./Component/FirstPage.css";
-
-function App() {
-  return (
-    <>
-    <BrowserRouter>
-    <Routes>
-      <Route path='/' element={<FirstPage/>}/>
-      <Route path='NewsApp' element={<NewsApp/>}/>
-      </Routes>
-
-
-    </BrowserRouter>
-    </>
-  );
+import React from "react";
+import Counter from "./Component/Counter";
+import './Component/Counter.css';
+const App=()=>{
+    return (
+        <>
+        <h1 style={{textAlign:"center", fontSize:"50px"}}>React-Redux Counter App </h1>
+        <Counter/>
+        </>
+    )
 }
-
 export default App;
