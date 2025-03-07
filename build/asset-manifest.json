@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/News-Top-Headlines/static/css/main.975f0d77.css",
-    "main.js": "/News-Top-Headlines/static/js/main.e314d2aa.js",
-    "static/js/787.0e6dc9a4.chunk.js": "/News-Top-Headlines/static/js/787.0e6dc9a4.chunk.js",
-    "static/media/logo.svg": "/News-Top-Headlines/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/News-Top-Headlines/index.html",
-    "main.975f0d77.css.map": "/News-Top-Headlines/static/css/main.975f0d77.css.map",
-    "main.e314d2aa.js.map": "/News-Top-Headlines/static/js/main.e314d2aa.js.map",
-    "787.0e6dc9a4.chunk.js.map": "/News-Top-Headlines/static/js/787.0e6dc9a4.chunk.js.map"
+    "main.css": "/ritu-frontdev/Counter-App-Redux-/static/css/main.88c84388.css",
+    "main.js": "/ritu-frontdev/Counter-App-Redux-/static/js/main.0bc28022.js",
+    "static/js/787.0e6dc9a4.chunk.js": "/ritu-frontdev/Counter-App-Redux-/static/js/787.0e6dc9a4.chunk.js",
+    "index.html": "/ritu-frontdev/Counter-App-Redux-/index.html",
+    "main.88c84388.css.map": "/ritu-frontdev/Counter-App-Redux-/static/css/main.88c84388.css.map",
+    "main.0bc28022.js.map": "/ritu-frontdev/Counter-App-Redux-/static/js/main.0bc28022.js.map",
+    "787.0e6dc9a4.chunk.js.map": "/ritu-frontdev/Counter-App-Redux-/static/js/787.0e6dc9a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.975f0d77.css",
-    "static/js/main.e314d2aa.js"
+    "static/css/main.88c84388.css",
+    "static/js/main.0bc28022.js"
   ]
 }
